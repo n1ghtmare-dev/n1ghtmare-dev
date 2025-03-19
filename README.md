@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtkYjdzMjlobWlhdXIzczhmM3JjdXpzYjczNnl3OHd2ejA1ZTNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NrP1InwBu2zz8XyCx6/giphy.gif" width="100"/>
 </div>
+
+### 📈 GitHub Activity Graph:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n1ghtmare-dev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
