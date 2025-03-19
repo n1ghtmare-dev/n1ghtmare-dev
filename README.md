@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtkYjdzMjlobWlhdXIzczhmM3JjdXpzYjczNnl3OHd2ejA1ZTNoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NrP1InwBu2zz8XyCx6/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400"/>
 </div>
 
 ### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n1ghtmare-dev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n1ghtmare-dev&theme=tokyo-night)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1ghtmare-dev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ghtmare-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
